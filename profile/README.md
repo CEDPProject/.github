@@ -1,4 +1,6 @@
-# CEDP ### Climate and Environmental Data Platform for Enhancing Climate Technology Capabilities in the Anthropocene
+# CEDP 
+### Climate and Environmental Data Platform for Enhancing Climate Technology Capabilities in the Anthropocene
+
 
 
 <p align="center">
