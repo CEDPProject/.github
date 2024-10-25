@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+
+![기후 환경 시나리오](https://github.com/CEDPProject/.github.git/profile/scenario.png)
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
