@@ -4,7 +4,9 @@
 
 ![기후 환경 시나리오](https://github.com/CEDPProject/.github.git/profile/scenario.png)
 
-
+<p align="center">
+   <img src="scenario.png" width="700" height="500">
+</p>
 
 <!--
 
