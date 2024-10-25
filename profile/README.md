@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img src="scenario.png" width="800" height="700">
+   <img src="scenario.png" width="600" height="500">
 </p>
 
 <!--
